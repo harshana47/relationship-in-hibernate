@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/one-to-one-relationship/pom.xml" />
+        <option value="$PROJECT_DIR$/one-to-many-relationship/pom.xml" />
+        <option value="$PROJECT_DIR$/one-to-many/pom.xml" />
+        <option value="$PROJECT_DIR$/many-to-many/pom.xml" />
+        <option value="$PROJECT_DIR$/Eager-Fetching/pom.xml" />
+        <option value="$PROJECT_DIR$/Fetching/pom.xml" />
+        <option value="$PROJECT_DIR$/Lazy-Fetching/pom.xml" />
+        <option value="$PROJECT_DIR$/SQL/pom.xml" />
+        <option value="$PROJECT_DIR$/HQL/pom.xml" />
+        <option value="$PROJECT_DIR$/SQL1/pom.xml" />
+        <option value="$PROJECT_DIR$/JPQL/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Fetching/pom.xml" />
+        <option value="$PROJECT_DIR$/SQL/pom.xml" />
+        <option value="$PROJECT_DIR$/one-to-many-relationship/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
